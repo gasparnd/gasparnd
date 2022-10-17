@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gasparnd
-- 👀 I’m interested in Mobile Development & Web. Work as React/React Native Dev
+- 👋 Hi, I’m Gaspar Dolcemascolo
+- 👀 I’m interesting in Mobile Development & Web. Work as React/React Native Dev
 - 🌱 I’m currently learning IOS development
 
 <!---
