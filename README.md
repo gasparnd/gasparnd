@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gaspar Dolcemascolo
 - 👀 I’m interesting in Mobile Development & Web. Work as React/React Native Dev
-- 🌱 I’m currently learning IOS development
 
 <!---
 gasparnd/gasparnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
